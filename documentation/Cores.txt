@@ -1,0 +1,6 @@
+background-color: #ffbf00
+texto: color: #5a5757;
+amarelo claro: #fddf03
+amarelo escuro: #e3a600
+amarelo medio: #f7c003
+cinza: 5a5757
