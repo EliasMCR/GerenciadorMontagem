@@ -1,0 +1,20 @@
+CASOS DE USO:
+
+REQUISITOS FUNCIONAIS
+
+-Sistema de login 
+-Painel administrativo para criar usuarios, filiais, facetadoras etc...
+
+-Registrar montagens e fazer a media
+-Avisar o usuário para fazer manutenção na facetadora de acordo com o número de cortes
+-Avisar o usuário caso a porcentagem de quebra for maior ao percentual atingido
+-Ter um gráfico dos materias mais cortados
+-Fazer média de quebra de todas as filiais
+-Futuramente ter um guia de acordo com a facetadora para fazer manutenção
+
+
+REQUISITOS NÃO FUNCIOAIS
+
+-Linguagem java e mapeamento JPA
+-Servidor para o banco de dados
+

@@ -1,4 +1,4 @@
-package com.elias.gerenciador.classes.abstratas;
+package com.elias.gerenciador.classes.colaborador;
 
 import com.elias.gerenciador.classes.Laboratorio;
 
