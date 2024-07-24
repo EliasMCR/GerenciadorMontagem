@@ -1,5 +1,7 @@
 package com.elias.gerenciador.classes.facetadora;
 
+import java.util.List;
+
 public abstract class FacetadoraAbstract {
 	private Long id;
 	private Double cr;
@@ -7,6 +9,7 @@ public abstract class FacetadoraAbstract {
 	private Double cristal;
 	private String nome;
 	private Boolean funcionando;
+	private List<RegistroManutencao> listaManutencao;
 
 	public Double getTotalMontagemDia() {
 		return null;
